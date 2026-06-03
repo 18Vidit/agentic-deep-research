@@ -14,6 +14,7 @@ Scripts/
 data/pdfs/
 data/chroma_db/
 data/chroma/
+data/
 
 # Python Artifacts
 __pycache__/
