@@ -12,6 +12,7 @@ Scripts/
 # We ignore the downloaded PDFs and the local 
 # ChromaDB instance so the repo remains small.
 data/pdfs/
+data/chroma_db/
 data/chroma/
 
 # Python Artifacts
