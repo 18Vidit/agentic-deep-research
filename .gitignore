@@ -1,0 +1,28 @@
+
+# API Keys and Secrets (CRITICAL)
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+Scripts/
+
+# Data & Vector Database (Heavy Files)
+# We ignore the downloaded PDFs and the local 
+# ChromaDB instance so the repo remains small.
+data/pdfs/
+data/chroma/
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS & IDE Generated Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

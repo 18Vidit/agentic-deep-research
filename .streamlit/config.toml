@@ -1,0 +1,15 @@
+[theme]
+# The main background color (True Black)
+backgroundColor = "#000000"
+
+# The background color for the sidebar and expander boxes (Very Dark Gray)
+secondaryBackgroundColor = "#0a0a0a"
+
+# The text color (Off-White for readability)
+textColor = "#ffffff"
+
+# The accent color for buttons and highlights (A sleek, sharp blue)
+primaryColor = "#2962ff"
+
+# Base font
+font = "sans serif"
